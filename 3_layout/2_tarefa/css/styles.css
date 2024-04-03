@@ -1,0 +1,12 @@
+.col {
+    height: 50px;
+    border: 2px solid blue;
+}
+  
+.par {
+    background-color: green;
+}
+
+.impar {
+    background-color: yellow;
+}
