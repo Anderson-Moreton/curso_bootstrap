@@ -1,0 +1,27 @@
+.bi.bi-bell {
+  font-size: 50px;
+  color: green;
+  margin: 20px;
+}
+
+/* aula 2 */
+.bi-arrow-clockwise {
+  font-size: 40px;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.bi.bi-whatsapp {
+  display: block;
+  background-color: green;
+  color: white;
+  font-size: 90px;
+  margin: 60px;;
+  padding: 30px;
+}
